@@ -1,0 +1,1 @@
+Professor, não esquece de executar essa query da tb_estados e tb_cidades no banco. Tem um exemplo no print.
